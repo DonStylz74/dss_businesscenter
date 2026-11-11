@@ -407,7 +407,7 @@ Purchasing a business will still assign the configured business job and owner gr
 
 <p align="center">
 
-<img src="https://i.imgur.com/3dJpgxP.png" alt="Business For Sale" width="400px">
+<img src="https://i.imgur.com/3dJpgxP.png" alt="https://i.imgur.com/3dJpgxP.png" width="400px">
 <img src="https://i.imgur.com/nzY22oo.png" alt="Owned Business" width="400px">
 <img src="https://i.imgur.com/1FsYhiU.png" alt="Selling Business" width="400px">
 <img src="https://i.imgur.com/domNXtq.png" alt="Business Sales Prop" width="400px">
