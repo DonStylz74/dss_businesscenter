@@ -402,9 +402,8 @@ If your server already uses another multi-job resource, disable this feature:
 Config.MultiJob.Enabled = false
 ```
 Purchasing a business will still assign the configured business job and owner grade. Only the optional job-switching controls inside the Business Center UI are disabled.
----
 
-<h2 id="layout">🎨 Layout</h2>
+---
 
 <p align="center">
 
@@ -414,8 +413,8 @@ Purchasing a business will still assign the configured business job and owner gr
 <img src="https://i.imgur.com/domNXtq.png" alt="Business Sales Prop" width="400px">
 <img src="https://i.imgur.com/fZZZJ8Z.png" alt="Admin Panel 1" width="400px">
 <img src="https://i.imgur.com/U1QbU2e.png" alt="Admin Panel 2" width="400px">
-<img src="" alt="Admin Panel 3" width="400px">
-<img src="" alt="Admin Panel 4" width="400px">
+<img src="https://i.imgur.com/qTbXkVW.png" alt="Admin Panel 3" width="400px">
+<img src="https://i.imgur.com/KFXZZh9.png" alt="Admin Panel 4" width="400px">
 </p>
 
 ---
