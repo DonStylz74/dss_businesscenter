@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Los Santos Business Center</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div id="app" class="app hidden">
+        <div class="shell">
+            <header class="topbar">
+                <div class="brand">
+                    <img src="assets/logo.svg" alt="" class="brand-logo" />
+                    <div class="brand-copy">
+                        <div class="brand-title">LOS SANTOS<br><span>BUSINESS CENTER</span></div>
+                        <div class="brand-tagline"><i></i> INVEST <b>•</b> OWN <b>•</b> GROW <i></i></div>
+                    </div>
+                </div>
+                <div class="topbar-actions">
+                    <label class="search-box">
+                        <span class="search-icon">⌕</span>
+                        <input id="searchInput" type="text" autocomplete="off" placeholder="Search businesses..." />
+                    </label>
+                    <button class="icon-button close-button" data-action="close" aria-label="Close">×</button>
+                </div>
+            </header>
+
+            <div class="workspace">
+                <aside class="sidebar">
+                    <nav class="nav-stack">
+                        <button class="nav-item" data-tab="sale"><span class="nav-icon">▣</span><span>Businesses for Sale</span></button>
+                        <button class="nav-item" data-tab="owned"><span class="nav-icon">▰</span><span>My Businesses</span></button>
+                        <button class="nav-item admin-nav hidden" data-tab="admin"><span class="nav-icon">⚙</span><span>Admin Panel</span></button>
+                    </nav>
+
+                    <div class="sidebar-art">
+                        <div class="building-lines"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+
+                    <div class="ownership-card">
+                        <div class="ownership-label">Ownership Limit</div>
+                        <div class="ownership-count"><strong id="ownedCount">0</strong> <span>/</span> <span id="maxOwned">0</span></div>
+                        <div class="progress"><div id="ownershipProgress"></div></div>
+                    </div>
+                </aside>
+
+                <main id="content" class="content"></main>
+            </div>
+        </div>
+    </div>
+
+    <div id="modalRoot"></div>
+    <div id="toastRoot" class="toast-root"></div>
+
+    <div id="businessDetailsOverlay" class="business-details-overlay hidden">
+        <div class="business-details-card">
+            <button class="business-details-close" data-action="close-business-details">×</button>
+            <div class="business-details-kicker">LOS SANTOS BUSINESS CENTER</div>
+            <div id="businessDetailsContent"></div>
+        </div>
+    </div>
+
+    <div id="certificateOverlay" class="certificate-overlay hidden">
+        <div class="certificate-card">
+            <button class="certificate-close" data-action="close-certificate">×</button>
+            <div class="certificate-ribbon">OFFICIAL PURCHASE RECORD</div>
+            <div class="certificate-logo"><img src="assets/logo.svg" alt="" /></div>
+            <div class="certificate-heading">LOS SANTOS BUSINESS CENTER</div>
+            <div class="certificate-subheading">BUSINESS OWNERSHIP CERTIFICATE</div>
+            <div class="certificate-rule"></div>
+            <p class="certificate-intro">This document certifies the recorded purchase of</p>
+            <div id="certificateBusiness" class="certificate-business">Business Name</div>
+            <div class="certificate-grid">
+                <div><span>Purchaser</span><strong id="certificateOwner">—</strong></div>
+                <div><span>Business Type</span><strong id="certificateType">—</strong></div>
+                <div><span>Purchase Price</span><strong id="certificatePrice">—</strong></div>
+                <div><span>Purchase Date</span><strong id="certificateDate">—</strong></div>
+                <div class="wide"><span>Certificate Number</span><strong id="certificateNumber">—</strong></div>
+            </div>
+            <div class="certificate-footer">
+                <div><span class="signature">LSBC</span><small>Authorised Business Registrar</small></div>
+                <div id="certificateExpiredStamp" class="expired-stamp hidden">EXPIRED</div>
+                <div class="seal">LS<br>BC</div>
+            </div>
+            <div id="certificateNote" class="certificate-note">Purchase receipts verify the recorded transaction only. Current sale authority is determined by the Business Center ownership register.</div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

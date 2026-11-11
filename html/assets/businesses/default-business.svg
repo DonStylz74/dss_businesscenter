@@ -1,0 +1,10 @@
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#161a23"/><stop offset="1" stop-color="#090b10"/></linearGradient></defs>
+  <rect width="900" height="520" fill="url(#bg)"/>
+  <rect x="115" y="220" width="670" height="210" rx="12" fill="#202633" stroke="#d4aa48" stroke-width="4"/>
+  <rect x="175" y="275" width="160" height="155" fill="#10141c"/><rect x="565" y="275" width="160" height="155" fill="#10141c"/>
+  <rect x="370" y="250" width="160" height="180" fill="#11151c"/>
+  <path d="M90 220L450 94L810 220" fill="#141923" stroke="#d4aa48" stroke-width="5"/>
+  <text x="450" y="190" fill="#f3c75b" text-anchor="middle" font-size="44" font-family="Arial, sans-serif" font-weight="700">BUSINESS</text>
+  <text x="450" y="480" fill="#9ba4b4" text-anchor="middle" font-size="24" font-family="Arial, sans-serif">LOS SANTOS COMMERCIAL PROPERTY</text>
+</svg>
