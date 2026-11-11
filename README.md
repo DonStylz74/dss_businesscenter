@@ -9,8 +9,6 @@ DSS Business Center allows players to purchase configured businesses from a cent
 The resource also includes a full in-game business creator/editor, configurable for-sale props and blips, ownership certificates, inactivity protection, player resale listings, server-side ownership validation, and an optional ZeroDazed AdvertBillboards integration.
 
 > Designed for **ESX Legacy + ox_lib + ox_inventory + ox_target + oxmysql**.
->
-> Current release: **v1.0.6**
 
 ---
 
