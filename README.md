@@ -406,15 +406,14 @@ Purchasing a business will still assign the configured business job and owner gr
 ---
 
 <p align="center">
-
-<img src="https://i.imgur.com/3dJpgxP.png" alt="https://i.imgur.com/3dJpgxP.png" width="400px">
-<img src="https://i.imgur.com/nzY22oo.png" alt="Owned Business" width="400px">
-<img src="https://i.imgur.com/1FsYhiU.png" alt="Selling Business" width="400px">
-<img src="https://i.imgur.com/domNXtq.png" alt="Business Sales Prop" width="400px">
-<img src="https://i.imgur.com/fZZZJ8Z.png" alt="Admin Panel 1" width="400px">
-<img src="https://i.imgur.com/U1QbU2e.png" alt="Admin Panel 2" width="400px">
-<img src="https://i.imgur.com/qTbXkVW.png" alt="Admin Panel 3" width="400px">
-<img src="https://i.imgur.com/KFXZZh9.png" alt="Admin Panel 4" width="400px">
+  <a href="https://i.imgur.com/3dJpgxP.png"><img src="https://i.imgur.com/3dJpgxP.png" width="400"></a>
+  <a href="https://i.imgur.com/nzY22oo.png"><img src="https://i.imgur.com/nzY22oo.png" width="400"></a>
+  <a href="https://i.imgur.com/1FsYhiU.png"><img src="https://i.imgur.com/1FsYhiU.png" width="400"></a>
+  <a href="https://i.imgur.com/domNXtq.png"><img src="https://i.imgur.com/domNXtq.png" width="400"></a>
+  <a href="https://i.imgur.com/fZZZJ8Z.png"><img src="https://i.imgur.com/fZZZJ8Z.png" width="400"></a>
+  <a href="https://i.imgur.com/U1QbU2e.png"><img src="https://i.imgur.com/U1QbU2e.png" width="400"></a>
+  <a href="https://i.imgur.com/qTbXkVW.png"><img src="https://i.imgur.com/qTbXkVW.png" width="400"></a>
+  <a href="https://i.imgur.com/KFXZZh9.png"><img src="https://i.imgur.com/KFXZZh9.png" width="400"></a>
 </p>
 
 ---
