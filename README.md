@@ -414,6 +414,7 @@ Purchasing a business will still assign the configured business job and owner gr
   <a href="https://i.imgur.com/U1QbU2e.png"><img src="https://i.imgur.com/U1QbU2e.png" width="400"></a>
   <a href="https://i.imgur.com/qTbXkVW.png"><img src="https://i.imgur.com/qTbXkVW.png" width="400"></a>
   <a href="https://i.imgur.com/KFXZZh9.png"><img src="https://i.imgur.com/KFXZZh9.png" width="400"></a>
+  <a href="https://i.imgur.com/wNgFVoc.png"><img src="https://i.imgur.com/wNgFVoc.png" width="400"></a>
 </p>
 
 ---
